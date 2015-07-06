@@ -1,0 +1,9 @@
+[submodule "test_doc"]
+	path = test_doc
+	url = https://github.com/jojuarva/test_doc.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/jojuarva/test_backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/jojuarva/test_frontend.git
